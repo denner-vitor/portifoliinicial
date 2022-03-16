@@ -1,4 +1,4 @@
-# portifolioinicial
+# Portifolio Inicial
 
 ## Estamos criando um projeto para aprimorar os conhecimentos em desenvolvimento web. Ainda estamos no processo, mas vamos montar o cronograma e as funcionalidades.
 
